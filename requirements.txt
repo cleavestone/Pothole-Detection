@@ -1,0 +1,4 @@
+Flask
+torch  # Adjust the version as needed
+ultralytics  # YOLOv8 library
+Pillow
